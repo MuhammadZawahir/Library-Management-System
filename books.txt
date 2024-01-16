@@ -1,0 +1,36 @@
+9The Hobbit
+John Ronald
+111
+1
+The Alchemist
+Paulo Coelho
+222
+1
+Harry Potter
+J.K.Rowling
+333
+1
+Moby-Dick
+Herman Melville
+444
+1
+1984
+George Orwell
+555
+1
+Frankenstein
+Mary Shelley
+666
+1
+Sherlock Holmes
+Arthur Conan
+777
+1
+Arsene Lupin
+Maurice Leblanc
+888
+1
+Beloved
+Toni Morrison
+999
+1
